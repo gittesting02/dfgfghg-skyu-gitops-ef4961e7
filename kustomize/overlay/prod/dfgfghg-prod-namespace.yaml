@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: dfgfghg-prod
+  labels:
+    environment-id: env_9a132e3d-a25f-42b6-a5db-c183cc2c91f7
+    project-id: project_0212766b-1b0b-464c-b212-379a59ef4fd4
+    project-name: dfgfghg
+    environment-name: prod
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
